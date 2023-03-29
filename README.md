@@ -1,4 +1,4 @@
-# MDE-from-MediaCore
+# MDE-from-NCKU MediaCore
 This is a refernce code in “Video-based Depth Estimation Autoencoder with Weighted Temporal Feature and Spatial Edge Guided Modules”. Our code is based on Unsupervised Monocular Depth Estimation with Left-Right Consistency (https://github.com/mrharicot/monodepth). If there is any enviorment issues, please refer to the original author's instructions for all related packages.
 
 # Training procedure
